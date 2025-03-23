@@ -17,6 +17,9 @@ Use command to launch: python app.py
 
 It will debugg and if no error it will run on localhost: http://127.0.0.1:5000/
 
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+
 Output:
 
 ![image](https://github.com/SainiKhushi/Breast-Cancer-Predictor/assets/70426169/51f113af-4e1a-42cd-bdf7-48b2f2a25196)
